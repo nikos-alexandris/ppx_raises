@@ -7,6 +7,10 @@
 (source
  (github nikos-alexandris/ppx_raises))
 
+(authors "Nikos Alexandris")
+
+(maintainers "Nikos Alexandris")
+
 (package
  (name ppx_raises)
  (synopsis "A ppx for matching exceptions")
