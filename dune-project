@@ -10,4 +10,5 @@
 (package
  (name ppx_raises)
  (synopsis "A ppx for matching exceptions")
- (depends ocaml dune ppxlib))
+ (depends ocaml dune ppxlib)
+ (tags (ppx)))
