@@ -1,0 +1,5 @@
+(test
+ (name test_ppx_raises)
+ (libraries ppx_raises)
+ (preprocess
+  (pps ppx_raises)))
